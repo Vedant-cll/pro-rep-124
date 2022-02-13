@@ -1,0 +1,36 @@
+
+.heading{
+    font-size: 15px;
+    width: 100%;
+    margin-top: 0px;
+padding-top: 10px;
+    background-color:rgb(94, 160, 214) ;
+ }
+ 
+ .note{
+     color: rgb(252, 11, 11);
+ }
+ 
+ .copy_right_footer{
+     background-color: grey;
+     position: fixed;
+     color:white;
+     bottom: 0;
+     width: 100%;
+     text-align: center;
+     line-height: 50px;
+     font-size: 20px;
+ }
+ 
+ canvas{
+  border: 10px solid black;
+  border-radius: 50px;
+  box-shadow: 100%;
+background-color: rgb(94, 160, 214); 
+}
+ video{
+     border:  solid 8px;
+ }
+ p{
+     font-size: 20px;
+ }
